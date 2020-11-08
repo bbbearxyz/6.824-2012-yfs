@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="Remote Host (e646b258-6189-4680-aab1-f4065b97b4f5)" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="Remote Host (e646b258-6189-4680-aab1-f4065b97b4f5)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/6.824-2012-yfs/lab1" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

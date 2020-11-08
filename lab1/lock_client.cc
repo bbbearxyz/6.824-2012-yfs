@@ -30,7 +30,7 @@ lock_client::stat(lock_protocol::lockid_t lid)
 lock_protocol::status
 lock_client::acquire(lock_protocol::lockid_t lid)
 {
-    printf()
+    printf("hello, world");
 }
 
 lock_protocol::status
